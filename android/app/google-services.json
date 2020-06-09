@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "835899352986",
+    "firebase_url": "https://caephasquotes.firebaseio.com",
+    "project_id": "caephasquotes",
+    "storage_bucket": "caephasquotes.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:835899352986:android:9669ae3137f2a71e223c23",
+        "android_client_info": {
+          "package_name": "com.example.caephasquotes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "835899352986-c442lduevc88i34b8edid2h6j82ku4cs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRkK9w4ykVcQbZb1Y7HmBfCYivsI-8qq0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "835899352986-c442lduevc88i34b8edid2h6j82ku4cs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
